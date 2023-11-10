@@ -1,0 +1,478 @@
+# Kodi Media Center language file
+# Addon Name: KCleaner
+# Addon id: script.kcleaner
+# Addon Provider: Dalibor Lanik
+msgid ""
+msgstr ""
+"Project-Id-Version: Kodi Addons\n"
+"Report-Msgid-Bugs-To: https://forum.kodi.tv/\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: Team-Kodi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgctxt "#30001"
+msgid "Check for addons without repo"
+msgstr "Keressen kiegészítőket repo nélkül"
+
+msgctxt "#30002"
+msgid "Textures database"
+msgstr "Textúra adatbázis"
+
+msgctxt "#30003"
+msgid "Clean textures DB"
+msgstr "Textúra adatbázis tisztítása"
+
+msgctxt "#30004"
+msgid "Clean All"
+msgstr "Mindent tisztít"
+
+msgctxt "#30005"
+msgid "Databases"
+msgstr "Adatbázisok"
+
+msgctxt "#30006"
+msgid "Checks"
+msgstr "Vizsgálat"
+
+msgctxt "#30007"
+msgid "Check for broken sources"
+msgstr "Nem elérhető források"
+
+msgctxt "#30010"
+msgid "KCleaner - Confirm cleanup of:"
+msgstr "KCleaner – A tisztítás megerősítése:"
+
+msgctxt "#30011"
+msgid "Scanning for temporary files"
+msgstr "Ideiglenes fájlok keresése"
+
+msgctxt "#30012"
+msgid "Checking paths..."
+msgstr "Elérési utak ellenőrzése..."
+
+msgctxt "#30013"
+msgid "Cleaning: "
+msgstr "Tisztítás: "
+
+msgctxt "#30014"
+msgid "Deleted: "
+msgstr "Törölve: "
+
+msgctxt "#30015"
+msgid "Items in this folder: "
+msgstr "Elemek ebben a mappában: "
+
+msgctxt "#30016"
+msgid "Scanning databases"
+msgstr "Adatbázisok szkennelése"
+
+msgctxt "#30017"
+msgid "Compacting: "
+msgstr "Tömörítés: "
+
+msgctxt "#30018"
+msgid "Compacted: "
+msgstr "Tömörítve: "
+
+msgctxt "#30019"
+msgid "Scanning repositories"
+msgstr "Repok szkennelése"
+
+msgctxt "#30020"
+msgid "Clean "
+msgstr "Tisztítás "
+
+msgctxt "#30021"
+msgid "Choose action:"
+msgstr "Művelet kiválasztás:"
+
+msgctxt "#30022"
+msgid "Settings"
+msgstr "Beállítások"
+
+msgctxt "#30023"
+msgid "Compact all databases"
+msgstr "Minden adatbázis tömörítése"
+
+msgctxt "#30024"
+msgid "Check for unused repositories"
+msgstr "Nem használt repok keresése"
+
+msgctxt "#30025"
+msgid "Checking: "
+msgstr "Keresés: "
+
+msgctxt "#30026"
+msgid "Checked: "
+msgstr "Megkeresve: "
+
+msgctxt "#30027"
+msgid "Clean All + Compact all databases"
+msgstr "Tisztítás + az összes DB tömörítése"
+
+msgctxt "#30028"
+msgid "Confirm action:"
+msgstr "Művelet engedélyezése:"
+
+msgctxt "#30030"
+msgid "Cleanup [COLOR red]interrupted[/COLOR]."
+msgstr "A tisztítás [COLOR red]megszakadt[/COLOR]."
+
+msgctxt "#30031"
+msgid "Cleanup [COLOR red]done[/COLOR]."
+msgstr "A tisztítás [COLOR red]kész[/COLOR]."
+
+msgctxt "#30040"
+msgid "Ignore Addons"
+msgstr "A kiegészítők figyelmen kívül hagyása"
+
+msgctxt "#30041"
+msgid "Ignore Other"
+msgstr "Fájlok és kivételek"
+
+msgctxt "#30042"
+msgid "Etc"
+msgstr "Egyebek"
+
+msgctxt "#30043"
+msgid "Auto-Clean"
+msgstr "Automatikus-Tisztítás"
+
+msgctxt "#30044"
+msgid "Custom Paths"
+msgstr "Saját útvonalak"
+
+msgctxt "#30051"
+msgid "WTF"
+msgstr ""
+
+msgctxt "#30052"
+msgid "4oD"
+msgstr ""
+
+msgctxt "#30053"
+msgid "BBC iPlayer"
+msgstr ""
+
+msgctxt "#30054"
+msgid "Simple Downloader"
+msgstr ""
+
+msgctxt "#30055"
+msgid "ITV"
+msgstr ""
+
+msgctxt "#30056"
+msgid "MP3 Streams"
+msgstr ""
+
+msgctxt "#30057"
+msgid "ArtistSlideshow"
+msgstr ""
+
+msgctxt "#30058"
+msgid "Titlovi"
+msgstr ""
+
+msgctxt "#30059"
+msgid "Titulky"
+msgstr ""
+
+msgctxt "#30060"
+msgid "Artwork Downloader"
+msgstr ""
+
+msgctxt "#30061"
+msgid "Spotitube"
+msgstr ""
+
+msgctxt "#30062"
+msgid "Retrospect"
+msgstr ""
+
+msgctxt "#30063"
+msgid "Database Pre-Wash Scrub"
+msgstr ""
+
+msgctxt "#30071"
+msgid "Animated Gifs in Thumbnails"
+msgstr "Animált gifek a bélyegképekben"
+
+msgctxt "#30072"
+msgid "Delete only thumbs not in database"
+msgstr "Csak a bélyegképek törlése, az adatbázis nem"
+
+msgctxt "#30073"
+msgid "Leave package backup"
+msgstr "Hagyd meg a csomag biztonsági másolatát"
+
+msgctxt "#30074"
+msgid "Fast thumb check"
+msgstr "Gyors bélyegkép-ellenőrzés"
+
+msgctxt "#30081"
+msgid "Debug logging (to Kodi log)"
+msgstr ""
+
+msgctxt "#30082"
+msgid "Force list view in menu"
+msgstr "Lista nézet kényszerítése a menüben"
+
+msgctxt "#30083"
+msgid "Disable confirmations"
+msgstr "A megerősítések letiltása"
+
+msgctxt "#30091"
+msgid "Automatic Cleaning"
+msgstr "Automatikus tisztítás"
+
+msgctxt "#30092"
+msgid "Choose what should be auto cleaned:"
+msgstr "Válaszd ki, hogy mit kell automatikusan megtisztítani:"
+
+msgctxt "#30093"
+msgid "Cache"
+msgstr "Gyorsítótár"
+
+msgctxt "#30094"
+msgid "Packages"
+msgstr "Csomagok"
+
+msgctxt "#30095"
+msgid "Thumbnails"
+msgstr "Bélyegképek"
+
+msgctxt "#30096"
+msgid "Addons"
+msgstr "Kiegészítők"
+
+msgctxt "#30097"
+msgid "Database Compact"
+msgstr "Adatbázis tömörítés"
+
+msgctxt "#30098"
+msgid "Delay on startup (min)"
+msgstr "Késleltetés a kezdés után (perc)"
+
+msgctxt "#30099"
+msgid "Clean textures DB"
+msgstr "Textura DB tisztítása"
+
+msgctxt "#30100"
+msgid "Unused addon data folders"
+msgstr "Nem használt kiegészítő adatmappák"
+
+msgctxt "#30101"
+msgid "ATV Screensaver files"
+msgstr "ATV képernyővédő fájlok"
+
+msgctxt "#30110"
+msgid "Database "
+msgstr "Adatbázis"
+
+msgctxt "#30111"
+msgid " compacted:"
+msgstr "  tömörítve"
+
+msgctxt "#30112"
+msgid "Mb"
+msgstr ""
+
+msgctxt "#30113"
+msgid " cleaned:"
+msgstr "  tisztítva"
+
+msgctxt "#30114"
+msgid "Scanning Textures database..."
+msgstr "Textúrák adatbázisának szkennelése..."
+
+msgctxt "#30115"
+msgid "Checking..."
+msgstr "Ellenőrzés..."
+
+msgctxt "#30116"
+msgid "Checking record ID: "
+msgstr "Rekord ID ellenőrzése:"
+
+msgctxt "#30117"
+msgid "Checking unused data folders"
+msgstr "A nem használt adatmappák ellenőrzése"
+
+msgctxt "#30118"
+msgid "Checking paths to be compacted..."
+msgstr "Tömörítendő elérési utak ellenőrzése..."
+
+msgctxt "#30120"
+msgid "EMPTY OR ERROR READING"
+msgstr "ÜRES VAGY OLVASÁSI HIBA"
+
+msgctxt "#30121"
+msgid "CONTAINS NO LOCAL ADDONS"
+msgstr "NEM TARTALMAZ HELYI KIEGÉSZÍTŐKET"
+
+msgctxt "#30122"
+msgid "IS IN NO REPOSITORY"
+msgstr "NINCS REPO"
+
+msgctxt "#30123"
+msgid "CAN NOT BE FOUND"
+msgstr "NEM TALÁLHATÓ"
+
+
+msgctxt "#30130"
+msgid "Cleaning totals:"
+msgstr "Tisztítási összegzés:"
+
+msgctxt "#30131"
+msgid "Compacting totals:"
+msgstr "Tömörítési összegzés:"
+
+msgctxt "#30132"
+msgid "Following repos have no addons:"
+msgstr ""
+
+msgctxt "#30133"
+msgid "Cleanup report:"
+msgstr ""
+
+msgctxt "#30134"
+msgid "Following addons have no repo:"
+msgstr "A következő repókhoz nincsenek kiegészítők:"
+
+msgctxt "#30135"
+msgid "Clean Textures Database:"
+msgstr "Tiszta textúrák adatbázisa:"
+
+msgctxt "#30136"
+msgid "Deleted"
+msgstr "Törölve"
+
+msgctxt "#30137"
+msgid "stale records from Textures13.db database"
+msgstr "elavult rekordok a Textures13.db adatbázisból"
+
+msgctxt "#30138"
+msgid "Deleted unused addon data folders:"
+msgstr "A nem használt kiegészítő adatmappák törölve:"
+
+msgctxt "#30139"
+msgid "Compacted settings paths:"
+msgstr "Tömörített beállítási útvonalak:"
+
+msgctxt "#30140"
+msgid "Runs every"
+msgstr "Futtatás minden"
+
+msgctxt "#30141"
+msgid "Day"
+msgstr "Nap"
+
+msgctxt "#30142"
+msgid "Week"
+msgstr "Héten"
+
+msgctxt "#30143"
+msgid "Month"
+msgstr "Hónapban"
+
+msgctxt "#30144"
+msgid "Quarter"
+msgstr "Negyedévben"
+
+msgctxt "#30145"
+msgid "On Kodi start"
+msgstr "Kodi indításkor"
+
+msgctxt "#30150"
+msgid "No files deleted."
+msgstr "Nincsenek törölt fájlok"
+
+msgctxt "#30151"
+msgid "No database compacted."
+msgstr "Nincsenek tömörített adatbázisok"
+
+msgctxt "#30152"
+msgid "No records deleted."
+msgstr "Nincsenek törölt recordok"
+
+msgctxt "#30153"
+msgid "No paths compacted."
+msgstr "Nincsenek tömörített elérési utak."
+
+msgctxt "#30160"
+msgid "Clean cache"
+msgstr ""
+
+msgctxt "#30161"
+msgid "Clean packages"
+msgstr "Tisztítsa meg a gyorsítótárat"
+
+msgctxt "#30162"
+msgid "Clean Thumbnails"
+msgstr "Tisztítsa meg a bélyegképeket"
+
+msgctxt "#30163"
+msgid "Clean Add-ons"
+msgstr "Tisztítsa meg a kiegészítőket"
+
+msgctxt "#30164"
+msgid "Compact settings paths to special://"
+msgstr "Kompakt beállítások elérési útja a special://"
+
+msgctxt "#30170"
+msgid " /All"
+msgstr "  /Minden"
+
+msgctxt "#30171"
+msgid " /Not in DB"
+msgstr " /Nem az adatbázisban"
+
+msgctxt "#30172"
+msgid " /Not in DB (Fast)"
+msgstr " /Nem az adatbázisban (gyors)"
+
+msgctxt "#30180"
+msgid "Display on auto-clean"
+msgstr "Kijelzés automatikus tisztításkor"
+
+msgctxt "#30181"
+msgid "Progress and notification"
+msgstr "Folyamatjelző és figyelmeztetés"
+
+msgctxt "#30182"
+msgid "Progress only"
+msgstr "Csak folyamatjelző"
+
+msgctxt "#30183"
+msgid "Notification only"
+msgstr "Csak figyelmeztetés"
+
+msgctxt "#30184"
+msgid "Nothing"
+msgstr "Semmi"
+
+msgctxt "#30190"
+msgid "Number of custom paths"
+msgstr "Egyéni útvonalak száma"
+
+msgctxt "#30191"
+msgid "Path 1"
+msgstr ""
+
+msgctxt "#30192"
+msgid "Path 2"
+msgstr ""
+
+msgctxt "#30193"
+msgid "Path 3"
+msgstr ""
+
+msgctxt "#30194"
+msgid "Path 4"
+msgstr ""
